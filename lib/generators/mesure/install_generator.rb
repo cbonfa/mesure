@@ -1,4 +1,4 @@
-#require 'rails/generators'
+require 'rails/generators'
 
 module Mesure
 	class InstallGenerator < ::Rails::Generators::Base
@@ -8,3 +8,5 @@ module Mesure
 	  	end
 	end
 end
+
+# https://github.com/heartcombo/devise/blob/main/lib/generators/active_record/devise_generator.rb
