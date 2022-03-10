@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  identifier: MyString
+  time: 1.5
+  timeout: false
+  error: MyString
+  location: MyString
+  call: MyString
+  extra_info: MyText
+
+two:
+  identifier: MyString
+  time: 1.5
+  timeout: false
+  error: MyString
+  location: MyString
+  call: MyString
+  extra_info: MyText
